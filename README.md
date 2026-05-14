@@ -1,2 +1,2 @@
 # AppVitalFlux
-sistema de prontuario eletronico, visando conectar a PSF, UBS, UPAS postos de saúde em geral onde (o médico prescrevendo no PSF ou hospital) diretamente à gestão de suprimentos (Unicat) permite prever a demanda antes mesmo de o estoque zerar.
+O sistema AppVitalFlux é prontuario eletronico, visa conectar acompanhar os atendimente e procedimentos realizado em pacientes em PSF, UBS, UPAS, postos de saúde em geral, onde (o médico prescrevendo tratamente,medicamento, internaçoes, transferencias, exames e etc) e acompanhar diretamente à gestão de suprimentos (Unidades do Unicat) permitindo prever a demanda de determinados medicamentos antes mesmo de o estoque zerar.
